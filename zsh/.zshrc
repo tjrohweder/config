@@ -14,7 +14,6 @@ alias docker="podman"
 
 # User Configuration
 export PATH=$HOME/.local/bin:$PATH
-export PATH=$PATH:~/.nvm/versions/node/v22.15.1/bin
 export NVM_DIR="$HOME/.nvm"
 
 # Lazy-load nvm, node, npm, and npx
