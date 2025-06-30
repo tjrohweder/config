@@ -4,4 +4,4 @@ This repository contains configuration files I use to customize my personal deve
 
 ## How to Use
 
-Each folder will contain instructions on how to properly use the cofiguration file
+Each folder contains instructions on how to properly use the cofiguration file
