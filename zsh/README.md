@@ -3,9 +3,11 @@
 A minimal, lazy‑loading **Zsh** environment powered by [Oh_My_Zsh](https://ohmyz.sh/).
 Focuses on fast start‑up, seamless Node.js version management, and Podman‑first container workflows.
 
+
 ## Requirements
 
-- Install Oh_My_Zsh before following the instructions below
+- [Install Oh_My_Zsh](https://ohmyz.sh/#install) before following the instructions below
+
 
 ## Installation
 
