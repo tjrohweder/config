@@ -14,5 +14,6 @@
     "inline_blame": {
       "enabled": false
     }
-  }
+  },
+  "auto_update": false
 }
