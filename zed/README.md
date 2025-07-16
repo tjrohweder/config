@@ -1,4 +1,4 @@
-# tjrohweder/config – Zed Editor
+# tjrohweder/config – Zed Editor Settings
 
 A simple comfiguration file for [Zed](https://zed.dev/), a fast, free and open-source file editor built in [Rust](https://www.rust-lang.org/).
 
