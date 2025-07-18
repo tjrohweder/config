@@ -11,6 +11,7 @@ source $ZSH/oh-my-zsh.sh
 
 # Aliases
 alias docker="podman"
+alias k="kubectl"
 
 # User Configuration
 export PATH=$HOME/.local/bin:$PATH
