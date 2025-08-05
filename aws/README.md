@@ -1,6 +1,6 @@
 # tjrohweder/config - AWS CLI Setup
 
-AWS CLI configuration file including necessary configuration for **IAM Identity Center** to access multiple AWS accounts
+AWS CLI configuration file including necessary customization for a **IAM Identity Center** seteup to access multiple AWS accounts
 
 ## AWS Accounts
 - Management (default)
