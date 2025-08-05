@@ -1,0 +1,22 @@
+[profile default] # Management Account
+sso_session = main
+sso_account_id = <ACCOUNT_ID>
+sso_role_name = AdministratorAccess
+region = us-east-1
+
+[profile dev] # Development Account
+sso_session = main
+sso_account_id = <ACCOUNT_ID>
+sso_role_name = AdministratorAccess
+region = us-east-1
+
+[profile prod] # Production Account
+sso_session = main
+sso_account_id = <ACCOUNT_ID>
+sso_role_name = AdministratorAccess
+region = us-east-1
+
+[sso-session main]
+sso_start_url = https://<CUSTOM_NAME>.awsapps.com/start
+sso_region = us-east-1
+sso_registration_scopes = sso:account:access
