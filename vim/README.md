@@ -1,6 +1,6 @@
 # tjrohweder/config - Vimrc Setup
 
-A `vimrc` configuration to meet basic editing needs when using Vim
+A **vimrc** configuration to meet basic editing needs when using Vim
 
 ## Requirements
 
@@ -8,13 +8,18 @@ A `vimrc` configuration to meet basic editing needs when using Vim
 
 ## Installation
 
+
+1. Clone the repo (or your fork)
 ```bash
-# 1. Clone the repo (or your fork)
 git clone https://github.com/tjrohweder/config.git ~/config
+```
 
-# 2. Backup any existing .vimrc
+2. Backup any existing .vimrc
+```bash
 mv ~/.vimrc ~/.vimrc.bak  # optional but recommended
+```
 
-# 3. Symlink the provided .vimrc
+3. Symlink the provided .vimrc
+```bash
 ln -s ~/config/vim/.vimrc ~/.vimrc
 ```
