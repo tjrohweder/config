@@ -8,7 +8,6 @@ A **vimrc** configuration to meet basic editing needs when using Vim
 
 ## Installation
 
-
 1. Clone the repo (or your fork)
 ```bash
 git clone https://github.com/tjrohweder/config.git ~/config

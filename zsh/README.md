@@ -11,7 +11,6 @@ Focuses on fast start‑up, seamless Node.js version management, and Podman‑fi
 
 ## Installation
 
-
 1. Clone the repo (or your fork)
 ```bash
 git clone https://github.com/tjrohweder/config.git ~/config
