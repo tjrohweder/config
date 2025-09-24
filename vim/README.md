@@ -1,6 +1,6 @@
 # tjrohweder/config - Vimrc Setup
 
-A **vimrc** configuration to meet basic editing needs when using Vim
+A **vimrc** configuration to meet basic editing needs
 
 ## Requirements
 
