@@ -1,7 +1,25 @@
 # Personal Configuration Files
 
-This repository contains configuration files I use to customize my personal development environment. It includes settings for my shell and editor preferences. While mainly for personal use, feel free to explore or adapt anything you find useful.
+This repository contains my personal configuration files for customizing and improving my development environment.
+It includes settings for the shell, editor preferences, and other tools that streamline my daily workflow.
+
+Although primarily intended for my own use, you are welcome to explore, adapt, and reuse anything that may help you enhance your setup.
+
+---
+
+## Structure
+
+Each folder in this repository corresponds to a specific tool or configuration.
+Inside, you will usually find:
+
+- The configuration file(s) themselves
+- A short description of their purpose
+- Instructions on how to set them up
+
+---
 
 ## How to Use
 
-Each folder contains instructions on how to properly use the cofiguration file
+1. Clone this repository to your machine:
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
