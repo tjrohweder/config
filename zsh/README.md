@@ -6,6 +6,7 @@ Focuses on fast start‑up, seamless Node.js version management, and Podman‑fi
 
 ## Requirements
 
+- Install Zsh
 - [Install Oh_My_Zsh](https://ohmyz.sh/#install) before following the instructions below
 
 
