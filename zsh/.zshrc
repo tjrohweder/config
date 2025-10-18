@@ -17,7 +17,10 @@ alias tg="terragrunt"
 
 # User Configuration
 export PATH=$HOME/.local/bin:$PATH
+export SAM_CLI_TELEMETRY=0
 export NVM_DIR="$HOME/.nvm"
+export BUN_INSTALL="$HOME/.bun"
+export PATH="$BUN_INSTALL/bin:$PATH"
 
 # Lazy-load nvm, node, npm, and npx
 autoload -U add-zsh-hook
@@ -47,7 +50,3 @@ npx() {
 
 # bun completions
 [ -s "/home/tjrohweder/.bun/_bun" ] && source "/home/tjrohweder/.bun/_bun"
-
-# bun
-export BUN_INSTALL="$HOME/.bun"
-export PATH="$BUN_INSTALL/bin:$PATH"
