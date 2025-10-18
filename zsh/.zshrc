@@ -44,3 +44,10 @@ npx() {
   load-nvm
   npx "$@"
 }
+
+# bun completions
+[ -s "/home/tjrohweder/.bun/_bun" ] && source "/home/tjrohweder/.bun/_bun"
+
+# bun
+export BUN_INSTALL="$HOME/.bun"
+export PATH="$BUN_INSTALL/bin:$PATH"
