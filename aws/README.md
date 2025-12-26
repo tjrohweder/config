@@ -10,7 +10,7 @@ AWS CLI configuration file including necessary customization for a **IAM Identit
 ## Requirements
 - AWS Organizations
 - Identity Center
-- AWS CLI
+- [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 
 ## Placeholders
 - **ACCOUNT_ID:** The ID of each AWS account to be included in the configuration
