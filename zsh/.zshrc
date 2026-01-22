@@ -48,4 +48,4 @@ npx() {
 }
 
 # bun completions
-[ -s "/home/tjrohweder/.bun/_bun" ] && source "/home/tjrohweder/.bun/_bun"
+[ -s "$HOME/.bun/_bun" ] && source "$HOME/.bun/_bun"
