@@ -10,6 +10,7 @@ plugins=(git)
 source $ZSH/oh-my-zsh.sh
 
 # Aliases
+alias d="docker"
 alias k="kubectl"
 alias tf="terraform"
 alias tg="terragrunt"
