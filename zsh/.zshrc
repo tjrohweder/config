@@ -21,6 +21,7 @@ export SAM_CLI_TELEMETRY=0
 export NVM_DIR="$HOME/.nvm"
 export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
+export PATH=$PATH:$HOME/go/bin
 
 # Lazy-load nvm, node, npm, and npx
 autoload -U add-zsh-hook
