@@ -14,6 +14,7 @@ alias d="docker"
 alias k="kubectl"
 alias tf="terraform"
 alias tg="terragrunt"
+alias cat="bat"
 
 # User Configuration
 export PATH=$HOME/.local/bin:$PATH
